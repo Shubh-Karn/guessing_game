@@ -1,4 +1,4 @@
-//Trying to foloow rust doc for this.
+//Trying to follow rust doc for this.
 
 use std::io;
 use rand::Rng;
